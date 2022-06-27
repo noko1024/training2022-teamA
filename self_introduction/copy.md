@@ -1,8 +1,11 @@
-# 自己紹介
+## 名前 = hackeraki
+## 趣味 = banana
+##banana
+<details><summary></summary>
 
-## [名前]
+  
 
-### 趣味
-- [趣味]
-### [何々]な食べ物
-- [食べ物]
+```rb
+'banana'
+```
+</details>
